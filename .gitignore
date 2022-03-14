@@ -1,0 +1,4 @@
+copy/
+__pycache__/
+.idea/
+data/

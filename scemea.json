@@ -1,0 +1,8 @@
+{
+  "protocol": "0.5",
+  "fov": 10,
+  "angle": 0,
+  "ballExists": true,
+  "ballAlligned": true,
+  "ballTeam": "Red"
+}
